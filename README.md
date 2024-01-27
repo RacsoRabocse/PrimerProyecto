@@ -1,8 +1,8 @@
 <h1>Primer Proyecto</h1>
 
-- Estado del proyecto: sigue en construccion.
+- Estado del proyecto: ```sigue en construccion```.
 
-- Creado por: Oscar Aquino.
+- Creado por: ```Oscar Aquino```.
 - Ultima fecha modificacion: ```25/01/2024```
 - Practicando para aprender a usar: ```GitHub```
  
