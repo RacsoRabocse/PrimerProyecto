@@ -2,5 +2,6 @@
 
 - Estado del proyecto: sigue en construccion.
 
-- Creado por: Oscar Aquino el 25/01/2024
+- Creado por: Oscar Aquino.
+- Ultima fecha modificacion: ```25/01/2024```
  
